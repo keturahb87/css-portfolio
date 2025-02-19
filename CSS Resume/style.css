@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(210, 102, 90) ;
+}
+.hero{
+    background-color: rgb(110, 142, 89);
+}
+.hero>div{
+    background-color:rgb(202, 224, 188) ;
+}
+h1{
+    color:rgb(120, 12, 40)
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.me{
+    border-radius: 50%;
+}
+
+.resume{
+    border:10px solid rgb(110, 142, 89);
+    height:200px;
+    background-color:rgb(202, 224, 188);
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content:center;
+    align-items: center;      
+}
+
+.contact{
+    font-size: 25px;
+    color:rgb(120, 12, 40);
+    border:10px solid rgb(110, 142, 89);
+    height:200px;
+    background-color:rgb(202, 224, 188);
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content:center;
+    align-items: center;
+    
+}
+footer{
+    float:right
+}
+
+
+
+
+
+
+
+
